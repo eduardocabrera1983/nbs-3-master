@@ -1,4 +1,4 @@
-# Using ChatGPT to Generate Business Questions for the Sakila Database
+<!-- # Using ChatGPT to Generate Business Questions for the Sakila Database -->
 
 Welcome to this tutorial! You'll learn how to leverage AI tools like ChatGPT to create business questions that you can solve using SQL queries on the Sakila Database. This exercise will enhance your SQL skills and familiarize you with AI-assisted learning.
 
@@ -6,14 +6,21 @@ Welcome to this tutorial! You'll learn how to leverage AI tools like ChatGPT to 
 
 ## Table of Contents
 
-1. [Understanding the Sakila Database](#understanding-the-sakila-database)
-2. [Accessing ChatGPT](#accessing-chatgpt)
-3. [Crafting Effective Prompts](#crafting-effective-prompts)
-4. [Generating Business Questions](#generating-business-questions)
-5. [Selecting and Organizing Questions](#selecting-and-organizing-questions)
-6. [Solving Questions with SQL Queries](#solving-questions-with-sql-queries)
-7. [Tips for Success](#tips-for-success)
-8. [Conclusion](#conclusion)
+- [Table of Contents](#table-of-contents)
+- [Understanding the Sakila Database](#understanding-the-sakila-database)
+- [Accessing ChatGPT](#accessing-chatgpt)
+- [Crafting Effective Prompts](#crafting-effective-prompts)
+  - [Basic Prompt Structure](#basic-prompt-structure)
+  - [Example Prompts](#example-prompts)
+- [Generating Business Questions](#generating-business-questions)
+  - [Step-by-Step Guide](#step-by-step-guide)
+  - [Refining Your Prompt](#refining-your-prompt)
+- [Selecting and Organizing Questions](#selecting-and-organizing-questions)
+  - [Example Selection](#example-selection)
+- [Solving Questions with SQL Queries](#solving-questions-with-sql-queries)
+  - [Example](#example)
+- [Tips for Success](#tips-for-success)
+- [Conclusion](#conclusion)
 
 ---
 
